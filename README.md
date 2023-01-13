@@ -1,4 +1,4 @@
-<h1><img src="https://user-images.githubusercontent.com/96459347/212264636-bccc4807-a28a-4afc-bc5d-95e2ff01ee19.gif" width="160"/>Hello! My name is Alexis West and welcome to my Github </h1>
+<h1><img src="https://user-images.githubusercontent.com/96459347/212264636-bccc4807-a28a-4afc-bc5d-95e2ff01ee19.gif" width="140"/>Hello! My name is Alexis West and welcome to my Github </h1>
 <h3>Full Stack Software Engineer with an emphasis in Javascript and Python</h3>
 
 <h3>My Proficiencies</h3>
