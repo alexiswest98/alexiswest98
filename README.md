@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**alexiswest98/alexiswest98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h3>My Proficiencies</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
