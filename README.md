@@ -1,4 +1,6 @@
-<h1><img src="https://user-images.githubusercontent.com/96459347/212264636-bccc4807-a28a-4afc-bc5d-95e2ff01ee19.gif" width="140"/>Hello! My name is Alexis West and welcome :) </h1>
+<img src="https://user-images.githubusercontent.com/96459347/212264636-bccc4807-a28a-4afc-bc5d-95e2ff01ee19.gif" width="140"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+++++++Welcome!+My+name+is+Alexis+West+%F0%9F%98%8A)](https://git.io/typing-svg)
+
 <h3>Full Stack Software Engineer with an emphasis in Javascript and Python</h3>
 
 <h3>My Proficiencies</h3>
