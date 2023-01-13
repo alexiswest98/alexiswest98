@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/96459347/212264636-bccc4807-a28a-4afc-bc5d-95e2ff01ee19.gif" width="140"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+++++++Welcome!+My+name+is+Alexis+West+%F0%9F%98%8A)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/96459347/212264636-bccc4807-a28a-4afc-bc5d-95e2ff01ee19.gif" width="130"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=82D7F7&width=435&lines=Hi+I'm+Alexis+West!+Welcome+to+my+github+%3A)" alt="Typing SVG" /></a>
 
 <h3>Full Stack Software Engineer with an emphasis in Javascript and Python</h3>
 
