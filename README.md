@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=25&pause=1000&color=82D7F7&width=435&lines=Hi+I'm+Alexis+West!+Welcome+to+my+github" alt="Typing SVG" /></a>
-<h2>Full Stack Software Engineer with an emphasis in Javascript and Python</h2>
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=25&pause=1000&color=82D7F7&width=435&lines=Hi+I'm+Alexis+West!+Welcome+to+my+github" alt="Typing SVG" /></a>
+</h2>
 <h3>My Proficiencies</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
